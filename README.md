@@ -1,10 +1,14 @@
-<h1> Slide Puzzle </h1>
-Live Page: <a href="https://slidepuzzle.azurewebsites.net" target="_blank"> https://slidepuzzle.azurewebsites.net </a>
-<br>
-<p>
-Source Page: <a href="https://github.com/kellyshaprk/SlidePuzzle_JavaScript-Azure" target="_blank"> https://github.com/kellyshaprk/SlidePuzzle_JavaScript-Azure </a> 
-<br><br>Click a square, then the square will move if there exists a blank space. 
-<br>You can move more than one square! 
-<br>Sequence the puzzle in order and the game alerts a message, "Winner!" </p>
-<img src="winner.PNG" alt="Winner alert image"/>
+## Slide Puzzle
 
+### Description
+Live Page: <a href="https://slidepuzzle.azurewebsites.net" target="_blank"> https://slidepuzzle.azurewebsites.net </a>
+<br />
+<img src="winner.PNG" alt="Winner alert image"/>
+<br />
+Click a square, then the square will move if there exists a blank space. You can move more than one square! 
+<br />
+Sequence the puzzle in order and the game alerts a message, "Winner!"
+
+
+### Skills
+It uses Javascript and HTML and is deployed to Azure.
