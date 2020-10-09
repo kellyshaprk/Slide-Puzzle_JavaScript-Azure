@@ -3,7 +3,7 @@
 ### Description
 Live Page: <a href="https://slidepuzzle.azurewebsites.net" target="_blank"> https://slidepuzzle.azurewebsites.net </a>
 <br />
-<img src="winner.PNG" alt="Winner alert image" width="70%" height="70%"/>
+<img src="winner.PNG" alt="Winner alert image" width="60%" height="60%"/>
 <br />
 Click a square, then the square will move if there exists a blank space. You can move more than one square! 
 <br />
